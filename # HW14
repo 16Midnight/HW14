@@ -1,0 +1,7 @@
+# HW14
+Which model has a lower loss?
+> The LSTM RNN on the. closing prices loss: 0.0095
+> Which model tracks the actual values better over time?
+> The LSTM RNN on the closing prices 
+> Which window size works best for the model?
+Windows =10  with 10 Epochs
